@@ -1,0 +1,3 @@
+class Data:
+    username = 'standard_user'
+    password = 'secret_sauce'
